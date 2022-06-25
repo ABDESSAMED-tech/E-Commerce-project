@@ -15,3 +15,7 @@ Travail demandé :
 - Programmer et implémenter la stratégie choisie.
 - Développement d'une application e-commerce
 - Préparer une présentation pour présenter votre méthode (exposé+démo)
+![start page](https://user-images.githubusercontent.com/82515052/175788829-a2fabf95-6fd7-4b4b-abea-cfbac5a36cff.JPG)
+![page de traitement](https://user-images.githubusercontent.com/82515052/175788836-24251e44-26d3-416a-9460-b52561fadf5d.JPG)
+![tartement des agent](https://user-images.githubusercontent.com/82515052/175788837-525eee64-b933-4da6-b6de-3e05ecf45e46.JPG)
+![gagnant](https://user-images.githubusercontent.com/82515052/175788843-45f57f8f-5653-42d0-ada6-59fbb3f11142.JPG)
